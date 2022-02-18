@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.18)  18 FEB 2022 02:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.18)  18 FEB 2022 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -391,6 +391,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 38.
 LaTeX Info: Redefining \pageref on input line 38.
 LaTeX Info: Redefining \nameref on input line 38.
+ (/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.out) (/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.out)
 \@outlinefile=\write3
 \openout3 = `paper.out'.
 
@@ -404,44 +405,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Reference `fig:graph' on page 2 undefined on input line 64.
-
-
-/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.tex:69: LaTeX Error: File `arrests_by_racegender' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.69 ...idth=.85\textwidth]{arrests_by_racegender}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `../tables/arrests_by_racegender.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.tex:78: Emergency stop.
-<read *> 
-         
-l.78 \input{../tables/arrests_by_racegender.tex}
-                                                ^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
+<../figures//incarcerations_by_racegender.png, id=21, 2409.0pt x 1355.0625pt>
+File: ../figures//incarcerations_by_racegender.png Graphic file (type png)
+<use ../figures//incarcerations_by_racegender.png>
+Package pdftex.def Info: ../figures//incarcerations_by_racegender.png  used on input line 53.
+(pdftex.def)             Requested size: 365.50655pt x 205.58705pt.
+ (/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/../tables/incarcerations_by_racegender.tex) (/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/../tables/regress_incarcerations_by_racegender.tex) [2 </Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/../figures//incarcerations_by_racegender.png>] [3] (/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.aux)
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: 786CFA9B4378ACDF238746F79FC08D9A;146.
+ ) 
 Here is how much of TeX's memory you used:
- 10436 strings out of 478994
- 149838 string characters out of 5858184
- 459439 words of memory out of 5000000
- 27747 multiletter control sequences out of 15000+600000
- 411154 words of font info for 58 fonts, out of 8000000 for 9000
+ 10441 strings out of 478994
+ 151219 string characters out of 5858184
+ 465879 words of memory out of 5000000
+ 27746 multiletter control sequences out of 15000+600000
+ 411024 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,7n,74p,695b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
-/Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.tex:78:  ==> Fatal error occurred, no output PDF file produced!
+ 71i,11n,74p,1061b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on /Users/afifmazhar/Desktop/UT_Austin_Spring_2022/Causal_Inference/causal-inference-2022/writing/paper.pdf (3 pages, 167798 bytes).
+PDF statistics:
+ 74 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+
